@@ -1,4 +1,4 @@
-# my_collection v.0.1.0
+# my_collection v.0.1.1
 
 Collection 'home-made' utils, functions and other things.
 
@@ -13,6 +13,7 @@ Collection 'home-made' utils, functions and other things.
 ## Usage
 
 - use ar your risk
+- fileman: a function to prepare the filename with a current datetime
 
 ## Related Projects
 
